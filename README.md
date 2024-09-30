@@ -1,2 +1,3 @@
-# avg-heights
-returns the average height from a list.
+# Average Height
+
+Returns the average height from a list.
